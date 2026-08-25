@@ -1,6 +1,6 @@
 cask "slopengine" do
   version "0.6.4"
-  sha256 "REPLACE_WITH_SHA256" # scripts/checksum.sh v#{version}
+  sha256 "9262cdbcc66ee3ce80b9789f4ff6bbb89b927e6a2b01e1eca29b15493225e058" # scripts/checksum.sh v#{version}
 
   # Only an arm64 (Apple Silicon) build is currently published.
   depends_on arch: :arm64
